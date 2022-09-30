@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boss-peter
 - 👀 I’m interested in ... WEB DEVELOPMENT
-- 🌱 I’m currently learning ...HTML, CSS, javascript, python, c++, c#, java and Angular.
+- 🌱 I’m currently learning ...HTML, CSS, javascript and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
